@@ -12,9 +12,4 @@ Este repositório contém uma aplicação simples em React que tem como objetivo
 3. Instale as dependências: npm install
 4. Inicie a aplicação: npm start
 
-# Estrutura do Projeto 
-* "src/App.js": Contém o código principal da aplicação, incluindo os componentes de pesquisa e tabela de carros.
-* "src/data.js": Lista de carros utilizada pela aplicação para exibição e filtragem.
-* "src/styles.css": Estilos simples para a apresentação da tabela. 
-
 Navegue e utilize este projeto da forma que desejar! 
