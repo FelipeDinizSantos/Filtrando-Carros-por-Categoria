@@ -1,6 +1,7 @@
 import { useState } from "react";
 
-const cars = [
+const cars = 
+  [
   { category: 'Sport', price: '110000', model: 'Golf GTI' },
   { category: 'Sedan', price: '25000', model: 'Toyota Corolla' },
   { category: 'SUV', price: '35000', model: 'Honda CR-V' },
